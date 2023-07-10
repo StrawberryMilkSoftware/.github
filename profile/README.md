@@ -1,7 +1,4 @@
-<h1>Strawberry Milk Software</h1>
+# strawberry milk software
+strawberry milk software is a small dev group focused on foss software
 
-Most repos here are private, so don't expect much
-
-🍓🥛</>
-
-strawberry milk software
+🍓:milk:💻
